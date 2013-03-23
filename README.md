@@ -1,2 +1,2 @@
-# example-sails-backbone
+# sails-todomvc
 ### a Sails application
